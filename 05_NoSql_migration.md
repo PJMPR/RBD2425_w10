@@ -177,6 +177,11 @@ To przechowywanie tylko identyfikatora innego dokumentu:
 
 ---
 
+>
+> 👉 Polecane narzędzie: [Hackolade Studio (online)](https://studio.hackolade.com/) — darmowy i dedykowany edytor modelu dokumentowego MongoDB z możliwością tworzenia zagnieżdżonych struktur oraz relacji między kolekcjami.
+
+
+
 ## 📚 Podsumowanie
 
 Projektowanie bazy MongoDB wymaga myślenia w kategoriach dokumentów i zapytań, a nie tylko struktury danych. Kluczowe pytania to:
