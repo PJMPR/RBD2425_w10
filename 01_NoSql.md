@@ -91,6 +91,16 @@ Bazy danych NoSQL ("Not Only SQL") to grupa systemów bazodanowych zaprojektowan
 | 💬 Język zapytań  | SQL                | Różne, często zapytania natywne |
 | 📊 Typowe użycie  | Finanse, ERP, CRM  | Social media, IoT, Big Data     |
 
+📊 Skalowanie
+
+| Cecha                | Skalowanie pionowe       | Skalowanie poziome        |
+| -------------------- | ------------------------ | ------------------------- |
+| Sposób działania     | Zwiększanie mocy serwera | Dodawanie nowych serwerów |
+| Koszt początkowy     | Niższy                   | Wyższy                    |
+| Skalowalność         | Ograniczona              | Bardzo dobra              |
+| Złożoność techniczna | Niska                    | Wysoka                    |
+| Ryzyko awarii        | Wyższe                   | Niższe (rozproszenie)     |
+
 ---
 
 ## 🧠 Kiedy wybrać które rozwiązanie?
