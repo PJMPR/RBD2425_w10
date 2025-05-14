@@ -72,9 +72,9 @@ Bazy danych NoSQL ("Not Only SQL") to grupa systemów bazodanowych zaprojektowan
   >
   > BASE to model spójności stosowany w bazach NoSQL jako alternatywa dla ACID:
   >
-  > * **B** (Basically Available) – system zawsze odpowiada, nawet jeśli dane są częściowo niedostępne,
-  > * **A** (Soft state) – stan systemu może się zmieniać w czasie (nawet bez nowych danych),
-  > * **SE** (Eventually consistent) – dane osiągną spójność po pewnym czasie, nie natychmiast.
+  > * **BA** (Basically Available) – system zawsze odpowiada, nawet jeśli dane są częściowo niedostępne,
+  > * **S** (Soft state) – stan systemu może się zmieniać w czasie (nawet bez nowych danych),
+  > * **E** (Eventually consistent) – dane osiągną spójność po pewnym czasie, nie natychmiast.
   >
   > Ten model pozwala na wyższą dostępność i lepszą skalowalność kosztem natychmiastowej spójności.
 
