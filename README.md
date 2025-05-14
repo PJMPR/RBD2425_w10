@@ -1,10 +1,10 @@
-# 📘 MongoDB i bazy danych NoSQL – materiał wykładowy
+# 📘 MongoDB i bazy danych NoSQL
 
 W ramach tego wykładu skupimy się na wprowadzeniu do baz danych typu NoSQL ze szczególnym uwzględnieniem MongoDB jako przedstawiciela baz dokumentowych.
 
 ---
 
-## 📚 Agenda wykładu
+## 📚 Co na dziś?
 
 1. **Wprowadzenie do MongoDB i baz NoSQL**
 
