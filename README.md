@@ -22,22 +22,4 @@ W ramach tego wykładu skupimy się na wprowadzeniu do baz danych typu NoSQL ze 
    * Format BSON i JSON
    * Przykładowa struktura dokumentu
 
-4. **Instalacja i uruchomienie MongoDB**
-
-   * Windows, Linux, macOS
-   * Docker
-
-5. **Podstawowe narzędzia**
-
-   * mongosh (shell)
-   * MongoDB Compass (GUI)
-   * MongoDB Atlas (chmura)
-   * JetBrains Rider / DataGrip
-
-6. **🔧 Demo**
-
-   * Uruchomienie lokalnej instancji MongoDB
-   * Dodanie pierwszych dokumentów
-   * Proste zapytania CRUD
-
 ---
